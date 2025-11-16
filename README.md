@@ -53,4 +53,4 @@ The `docs/meta/STRUCTURE.md` file captures the authoritative layout, and `docs/m
 outlines the workflow for proposing, reviewing, and merging changes.
 
 ## Current Roadmap Focus
-The repository is executing **Phase 2 – Content Development** of the roadmap. Subject-matter experts are actively drafting baseline documents for every directory so that later phases can focus on validation and enablement. Track detailed status and checklists in [`docs/meta/README.md`](docs/meta/README.md).
+The repository completed **Phase 2 – Content Development** and is transitioning into **Phase 3 – Review and Validation**. Draft guidelines, standards, and supporting templates now exist across every directory, and the next checkpoint focuses on formal reviews plus cross-document validation. Track detailed status, follow-up actions, and release notes in [`docs/meta/README.md`](docs/meta/README.md) and [`docs/meta/RELEASE_NOTES.md`](docs/meta/RELEASE_NOTES.md).
