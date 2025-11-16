@@ -8,6 +8,7 @@
 | Delivery Rhythm | Sequential phases, limited overlap | Time-boxed sprints or continuous flow | Stage gates containing iterative sprints |
 | Documentation Depth | Comprehensive specifications at each phase | Lightweight artifacts focused on current increment | Dual-track: governance docs + sprint-level artifacts |
 | Governance | Phase exit reviews, sign-offs, compliance audits | Servant leadership, team-level metrics | Integrated governance team aligning PMO + Agile leads |
+| Funding Model | Fixed, project-based budgets released after stage approvals | Incremental investment tied to value slices and product KPIs | Portfolio-level guardrails with tranche releases per increment |
 
 ## Role Mapping
 | Role / Responsibility | Waterfall Equivalent | Agile Equivalent | Hybrid Approach |
@@ -17,6 +18,7 @@
 | Requirements Management | Business Analyst | Product Owner with team collaboration | Business Analyst translates charter into backlog with Product Owner |
 | Technical Authority | Solution Architect | Tech Lead / Architecture Owner | Architecture Council with embedded Tech Leads |
 | Quality & Testing | QA Manager, Test Leads | QA embedded in team, SDET roles | Central QA defines policy; teams automate tests in sprints |
+| Stakeholder Reporting | Weekly status decks with earned value metrics | Radiators: sprint reviews, dashboards, release notes | Hybrid dashboard: milestone KPIs + sprint burndowns |
 
 ## Deliverable Mapping
 | Stage | Waterfall Documents | Agile Artifacts | Hybrid Blend |
@@ -32,3 +34,19 @@
 2. **Select Delivery Cadence** – Choose Agile ceremonies (scrum, kanban) that best support collaboration and flow.
 3. **Blend Roles & Artifacts** – Assign accountable owners for each row in the tables above and agree on the minimum viable documentation for each milestone.
 4. **Inspect & Adapt** – Review the mapping quarterly to ensure it still balances speed, compliance, and stakeholder satisfaction.
+
+## Selecting the Right Model
+- **Waterfall Favored When** – Failure costs are extremely high, integration points are immovable, and contracts specify fixed scope deliverables.
+- **Agile Favored When** – Discovery work is ongoing, stakeholders accept evolving scope, and the team can ship frequently to learn from usage data.
+- **Hybrid Favored When** – The organization has governance or funding checkpoints that cannot be bypassed, yet product teams need space to iterate.
+
+Use the tables above to run a workshop with stakeholders. Score each dimension (governance, funding, documentation, cadence) against the project needs, then select the model whose strengths align with the highest-risk areas.
+
+## Transition Playbook
+1. **Current-State Assessment** – Document pain points with the existing methodology (e.g., slow approvals, chaotic releases).
+2. **Pilot Scope** – Identify a low-risk initiative to pilot the target model. Define explicit success metrics (cycle time, defect escape rate, satisfaction).
+3. **Enablement Plan** – Train roles that change most significantly (Scrum Masters, PMO leads, QA). Provide templates for the new artifacts.
+4. **Rollout** – Expand to adjacent teams in waves, keeping a shared backlog of process improvements.
+5. **Sustainment** – Establish a governance forum that reviews process KPIs and triages conflicts between methodologies.
+
+Mapping alone is insufficient without intentional change management; pair the mapping with targeted coaching and success metrics to realize the benefits.
