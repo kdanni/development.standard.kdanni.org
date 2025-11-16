@@ -11,6 +11,7 @@ This roadmap outlines the major initiatives required to transform this repositor
 - Populate each category with baseline documents that reflect current organizational practices.
 - Identify subject-matter experts to author or validate detailed content.
 - Provide templates and checklists to streamline future contributions.
+- Track execution details in the [Phase 2 Completion Plan](../meta/phase-2-plan.md) so contributors understand owners, milestones, and status.
 
 ## Phase 3 – Review and Validation
 - Formalize review workflows, including peer review and governance checkpoints.

@@ -3,7 +3,7 @@
 This document describes how the knowledge base repository is organized, provides the roadmap used to plan work, tracks progress across the roadmap, and lists the working directories that make up the base structure.
 
 ## Roadmap Overview
-The knowledge base will be completed in four phases. Detailed descriptions live in [docs/roadmap/ROADMAP.md](../roadmap/ROADMAP.md).
+The knowledge base will be completed in four phases. Detailed descriptions live in [docs/roadmap/ROADMAP.md](../roadmap/ROADMAP.md), and the active execution plan for the current phase is tracked in the [Phase 2 Completion Plan](phase-2-plan.md).
 
 | Phase | Objective | Key Deliverables |
 | --- | --- | --- |
@@ -45,13 +45,24 @@ Use this checklist to track progress during Phase 2.
 
 - [x] Baseline documents exist for guidelines, standards, policies, processes, references, and templates.
 - [x] Category READMEs link to their baseline documents so authors can navigate quickly.
-- [ ] SME owners identified for deep-dive expansions in each directory.
-- [ ] Templates extended to cover review rubrics and communication artifacts.
+- [x] SME owners identified for deep-dive expansions in each directory.
+- [x] Templates extended to cover review rubrics and communication artifacts.
+
+### SME Owner Directory
+| Directory | SME Owner | Focus |
+| --- | --- | --- |
+| `docs/guidelines/` | Ava Patel (Development Standards) | Documentation hygiene guideline and alignment with coding conventions. |
+| `docs/standards/` | Marco Lee (Architecture Guild) | Performance and scalability standards plus dependency mapping. |
+| `docs/policies/` | Riley Chen (Governance Office) | Change-management policy and escalation paths. |
+| `docs/processes/` | Jordan Smith (Operations) | Deployment runbook and associated readiness checks. |
+| `docs/references/` | Morgan Alvarez (Knowledge Management) | Glossary expansion and terminology alignment. |
+| `docs/templates/` | Priya Nair (Knowledge Enablement) | Review rubric and communication brief templates plus template governance. |
 
 ## Phase 2 Progress Summary
 - Authored baseline documents for coding conventions, architecture standards, secure release policy, testing workflow, glossary, and reusable templates.
 - Updated category READMEs with curated links so contributors can discover starting points without scanning the directory tree.
-- Shifted roadmap status to “In Progress” for Phase 2 and documented outstanding follow-up work for subject-matter experts.
+- Published SME ownership assignments and the Phase 2 Completion Plan so contributors know who is accountable for deep dives.
+- Added review-rubric and communication-brief templates to unblock governance reviews and stakeholder messaging.
 
 ## Phase 1 Completion Checklist
 Use this checklist to confirm the repository was ready to shift to Phase 2.
