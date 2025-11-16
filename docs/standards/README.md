@@ -17,3 +17,4 @@ They should articulate the rationale behind the rule and how adherence is valida
 
 ## Baseline Documents
 - [Service Architecture Standard](service-architecture-standard.md) – Defines guardrails, quality gates, and enforcement for HTTP services.
+- [Performance and Scalability Standard](performance-and-scalability-standard.md) – Documents SLO expectations, instrumentation requirements, and escalation triggers.

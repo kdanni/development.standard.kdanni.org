@@ -16,4 +16,4 @@ They should stay evergreen and note the owner responsible for updates.
 3. Include cross-links to documents that rely on the reference material.
 
 ## Baseline Documents
-- [Engineering Glossary](glossary.md) – Defines shared terminology with owners and review cadences for ongoing maintenance.
+- [Engineering Glossary and Terminology Index](glossary.md) – Defines shared terminology, acronyms, service names, tooling identifiers, and ownership cadences.
