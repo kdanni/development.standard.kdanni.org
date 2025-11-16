@@ -39,6 +39,8 @@ _Status Legend: Not Started → Planned → In Progress → Complete._
   review expectations.
 - **Directory structure** – See [docs/meta/STRUCTURE.md](STRUCTURE.md) for the authoritative description of the repository
   layout and ownership.
+- **Phase 2 working checklist** – Use [docs/meta/phase-2-working-checklist.md](phase-2-working-checklist.md) for a concise
+  summary of coding conventions, testing requirements, and in-scope deliverables.
 
 ## Phase 2 Content Development Checklist
 Use this checklist to track progress during Phase 2.
