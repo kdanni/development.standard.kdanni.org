@@ -49,3 +49,5 @@ LICENSE
 ```
 
 Refer to `docs/meta/README.md` for roadmap details, working directory descriptions, and contribution pointers.
+The `docs/meta/STRUCTURE.md` file captures the authoritative layout, and `docs/meta/CONTRIBUTING.md`
+outlines the workflow for proposing, reviewing, and merging changes.
