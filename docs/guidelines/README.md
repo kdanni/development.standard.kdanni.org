@@ -17,3 +17,4 @@ actionable, and scoped to a single theme.
 
 ## Baseline Documents
 - [Coding Conventions Guideline](coding-conventions.md) – Establishes shared naming, tooling, and review expectations for all code contributions.
+- [Documentation Hygiene Guideline](documentation-hygiene.md) – Defines README structure, changelog hygiene, and inline documentation expectations.

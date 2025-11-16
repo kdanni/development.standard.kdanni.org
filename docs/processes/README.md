@@ -17,3 +17,4 @@ They should provide enough detail that a new contributor can run the workflow wi
 
 ## Baseline Documents
 - [Testing Workflow](testing-workflow.md) – Defines the trigger, stages, evidence collection, and escalation paths for automated test suites.
+- [Deployment Runbook](deployment-runbook.md) – Details release gates, monitoring expectations, rollback procedures, and communication protocols.

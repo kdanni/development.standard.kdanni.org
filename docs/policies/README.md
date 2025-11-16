@@ -17,3 +17,4 @@ They explain who must comply, the scope of enforcement, and exception handling.
 
 ## Baseline Documents
 - [Secure Release Policy](secure-release-policy.md) – Documents the mandatory gates, roles, and exception handling for every production deployment.
+- [Change-Management Policy](change-management-policy.md) – Clarifies approvals, exception logging, and audit traceability for production changes.
