@@ -17,3 +17,5 @@ Each template should be reusable with minimal editing and include instructions f
 
 ## Baseline Documents
 - [Document Template](document-template.md) – A reusable scaffold that ensures new documents capture goals, roles, validation, and related references.
+- [Review Rubric Template](review-rubric-template.md) – Provides a scoring matrix and decision log so reviewers capture consistent evidence.
+- [Communication Brief Template](communication-brief-template.md) – Helps communicators summarize impact, key messages, and distribution channels for stakeholder updates.
