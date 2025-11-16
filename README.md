@@ -1,7 +1,8 @@
 # development.standard.kdanni.org
+
 Development guideline and policies for Software Development.
 
-## Development Guidelines and Policies 
+## Development Guidelines and Policies
 This repository contains a structured collection of documents defining guidelines, standards, and policies for software development. Its purpose is to provide a consistent reference for teams and contributors, supporting reliable, maintainable, and high-quality software delivery.
 
 ## Purpose
@@ -29,15 +30,22 @@ The repository may include documents such as:
 (Actual content depends on your structure.)
 
 ## Structure
-
 Documents are organized by topic in separate folders or files. Each document focuses on a specific area of development practice to keep the repository clear and easy to navigate.
 
-Example structure:
+### Base Directory Layout
 ```
-/coding-standards
-/review-policy
-/testing
-/security
-/architecture
 README.md
+LLM_HINTS.md
+LICENSE
+/docs
+  /meta
+  /roadmap
+  /guidelines
+  /standards
+  /policies
+  /processes
+  /references
+  /templates
 ```
+
+Refer to `docs/meta/README.md` for roadmap details, working directory descriptions, and contribution pointers.
