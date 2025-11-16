@@ -14,3 +14,6 @@ They should stay evergreen and note the owner responsible for updates.
 1. Explain how frequently the reference is reviewed and by whom.
 2. Provide sourcing or citations for external references.
 3. Include cross-links to documents that rely on the reference material.
+
+## Baseline Documents
+- [Engineering Glossary](glossary.md) – Defines shared terminology with owners and review cadences for ongoing maintenance.

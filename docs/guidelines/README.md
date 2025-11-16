@@ -14,3 +14,6 @@ actionable, and scoped to a single theme.
 1. State the goal of the guideline and the audience it applies to.
 2. Provide prescriptive steps or checklists that teams can follow.
 3. Reference related standards or policies where escalation or enforcement is defined.
+
+## Baseline Documents
+- [Coding Conventions Guideline](coding-conventions.md) – Establishes shared naming, tooling, and review expectations for all code contributions.

@@ -14,3 +14,6 @@ They explain who must comply, the scope of enforcement, and exception handling.
 1. Define the policy statement, scope, and audience in the opening section.
 2. Detail roles/responsibilities, enforcement cadence, and reporting obligations.
 3. Describe escalation or exception processes including required evidence or forms.
+
+## Baseline Documents
+- [Secure Release Policy](secure-release-policy.md) – Documents the mandatory gates, roles, and exception handling for every production deployment.

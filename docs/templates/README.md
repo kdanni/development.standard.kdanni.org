@@ -14,3 +14,6 @@ Each template should be reusable with minimal editing and include instructions f
 1. Provide a brief description at the top of each template explaining its intent.
 2. Include placeholder text or comments guiding authors on what to supply.
 3. Cross-reference any mandatory policies or processes the template supports.
+
+## Baseline Documents
+- [Document Template](document-template.md) – A reusable scaffold that ensures new documents capture goals, roles, validation, and related references.

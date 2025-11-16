@@ -14,6 +14,7 @@ rules in `LLM_HINTS.md`.
    - Include a clear title (`# Heading`), context paragraph, and structured sections.
    - Cite source material inline using repository-relative links or external references as needed.
    - Reference related documents with full paths (e.g., `docs/processes/testing.md`).
+   - Start from the [Document Template](../templates/document-template.md) to keep structure consistent.
 5. **Validate formatting** – Run Markdown linting (when available) and ensure headings follow a logical hierarchy.
 6. **Request review** – Tag the working group responsible for the directory (see `STRUCTURE.md`).
 7. **Merge and document** – After approval, update any affected index or README files and note the change in

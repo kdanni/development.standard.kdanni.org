@@ -51,3 +51,6 @@ LICENSE
 Refer to `docs/meta/README.md` for roadmap details, working directory descriptions, and contribution pointers.
 The `docs/meta/STRUCTURE.md` file captures the authoritative layout, and `docs/meta/CONTRIBUTING.md`
 outlines the workflow for proposing, reviewing, and merging changes.
+
+## Current Roadmap Focus
+The repository is executing **Phase 2 – Content Development** of the roadmap. Subject-matter experts are actively drafting baseline documents for every directory so that later phases can focus on validation and enablement. Track detailed status and checklists in [`docs/meta/README.md`](docs/meta/README.md).
