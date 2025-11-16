@@ -18,3 +18,7 @@ They should provide enough detail that a new contributor can run the workflow wi
 ## Baseline Documents
 - [Testing Workflow](testing-workflow.md) – Defines the trigger, stages, evidence collection, and escalation paths for automated test suites.
 - [Deployment Runbook](deployment-runbook.md) – Details release gates, monitoring expectations, rollback procedures, and communication protocols.
+- [Waterfall Development Process](waterfall/README.md) – Documents sequential delivery expectations, governance checkpoints, and required artifacts.
+- [Agile Development Process](agile/README.md) – Describes iterative delivery cadences, team roles, and collaboration ceremonies.
+- [Hybrid Development Process](hybrid/README.md) – Explains how to blend classic governance with Agile execution, including conflict resolution guidance.
+- [Process Overview & Mapping](process-overview-and-mapping.md) – Compares the methodologies, maps roles, and aligns deliverables across the approaches.
