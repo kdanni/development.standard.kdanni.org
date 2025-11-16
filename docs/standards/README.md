@@ -14,3 +14,6 @@ They should articulate the rationale behind the rule and how adherence is valida
 1. State whether the standard is mandatory or advisory and list enforcement mechanisms.
 2. Provide measurable acceptance criteria or metrics.
 3. Link to supporting guidelines, policies, or processes that describe implementation details.
+
+## Baseline Documents
+- [Service Architecture Standard](service-architecture-standard.md) – Defines guardrails, quality gates, and enforcement for HTTP services.

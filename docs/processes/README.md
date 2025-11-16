@@ -14,3 +14,6 @@ They should provide enough detail that a new contributor can run the workflow wi
 1. Include a process overview, trigger, exit criteria, and responsible roles.
 2. Provide step-by-step instructions supplemented with diagrams or tables when needed.
 3. Link to supporting templates, policies, or standards that govern the process.
+
+## Baseline Documents
+- [Testing Workflow](testing-workflow.md) – Defines the trigger, stages, evidence collection, and escalation paths for automated test suites.

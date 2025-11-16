@@ -16,7 +16,7 @@ The knowledge base will be completed in four phases. Detailed descriptions live 
 | Phase | Current Status | Owner / Role | Next Checkpoint |
 | --- | --- | --- | --- |
 | Phase 1 – Foundations | Complete | Repository maintainers | Transition ownership to Phase 2 planning session (Week 1, next quarter) |
-| Phase 2 – Content Development | Planned | Subject-matter experts | Begin drafting category documents once Phase 1 closes |
+| Phase 2 – Content Development | In Progress | Subject-matter experts | Baseline document audit (end of Week 4) |
 | Phase 3 – Review and Validation | Planned | Review board | Define reviewers and validation tooling after drafts are ready |
 | Phase 4 – Enablement and Adoption | Planned | Product enablement | Prepare onboarding materials following validation phase |
 
@@ -40,8 +40,21 @@ _Status Legend: Not Started → Planned → In Progress → Complete._
 - **Directory structure** – See [docs/meta/STRUCTURE.md](STRUCTURE.md) for the authoritative description of the repository
   layout and ownership.
 
+## Phase 2 Content Development Checklist
+Use this checklist to track progress during Phase 2.
+
+- [x] Baseline documents exist for guidelines, standards, policies, processes, references, and templates.
+- [x] Category READMEs link to their baseline documents so authors can navigate quickly.
+- [ ] SME owners identified for deep-dive expansions in each directory.
+- [ ] Templates extended to cover review rubrics and communication artifacts.
+
+## Phase 2 Progress Summary
+- Authored baseline documents for coding conventions, architecture standards, secure release policy, testing workflow, glossary, and reusable templates.
+- Updated category READMEs with curated links so contributors can discover starting points without scanning the directory tree.
+- Shifted roadmap status to “In Progress” for Phase 2 and documented outstanding follow-up work for subject-matter experts.
+
 ## Phase 1 Completion Checklist
-Use this checklist to confirm the repository is ready to shift to Phase 2.
+Use this checklist to confirm the repository was ready to shift to Phase 2.
 
 - [x] Root README links to `docs/meta/README.md` and describes the current roadmap focus.
 - [x] `docs/meta/STRUCTURE.md` captures the canonical directory layout and ownership.
