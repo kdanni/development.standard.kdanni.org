@@ -23,8 +23,8 @@ requirements, and in-scope deliverables. It reflects the authoritative roadmap a
   recurring issues in monthly QA reviews.
 
 ## Phase 2 Scope Guidance
-- Phase 2 is **In Progress**, owned by SME contributors, and includes a Baseline Document Audit at the end of Week 4.
-- Ongoing tracking lives in `docs/meta/README.md` and the Phase 2 plan (`docs/meta/phase-2-plan.md`).
+- Phase 2 is **Complete**, with SME contributors handing drafts to the Phase 3 review board after the Baseline Document Audit wrapped at the end of Week 4.
+- Ongoing tracking and follow-up notes live in `docs/meta/README.md`, the Phase 2 plan (`docs/meta/phase-2-plan.md`), and the release notes (`docs/meta/RELEASE_NOTES.md`).
 - Requirements:
   - Baseline documents must exist in every directory, backed by SMEs and reusable templates.
   - Each directory needs a navigable README plus SME ownership assignments.
@@ -35,13 +35,13 @@ requirements, and in-scope deliverables. It reflects the authoritative roadmap a
 ## Goal Checklist and Owners
 | # | Deliverable | Owner | Due | Notes |
 | --- | --- | --- | --- | --- |
-| 1 | Documentation hygiene guideline (README expectations, changelog hygiene, examples) | Ava Patel | Week 5 midpoint | Align with coding/testing standards. |
-| 2 | Performance & scalability standard (SLOs, instrumentation, escalation triggers) | Marco Lee | Week 6 handoff | Supports review milestones. |
-| 3 | Change-management policy (approvals, exception logging, audit traceability) | Riley Chen | Week 6 handoff | Complements secure release policy. |
-| 4 | Deployment runbook (release gates, rollback checkpoints, communications) | Jordan Smith | Week 5 midpoint | Extends testing workflow. |
-| 5 | Terminology index (acronyms, services, tooling) | Morgan Alvarez | Week 5 midpoint | Expand existing glossary and link dependencies. |
-| 6 | Review-rubric and communication-brief templates | Priya Nair | Completed Week 4 | Monitor for additional template needs. |
-| 7 | Housekeeping (SME roster, template inventory, checklist, roadmap/meta sync) | Repository Maintainers | Ongoing | Maintain cross-links and milestone tracking. |
+| 1 | Documentation hygiene guideline (README expectations, changelog hygiene, examples) | Ava Patel | Week 5 midpoint | **Complete** – Prepare for Phase 3 review sign-off. |
+| 2 | Performance & scalability standard (SLOs, instrumentation, escalation triggers) | Marco Lee | Week 6 handoff | **Complete** – Validate metrics alignment during Phase 3. |
+| 3 | Change-management policy (approvals, exception logging, audit traceability) | Riley Chen | Week 6 handoff | **Complete** – Queue for governance review. |
+| 4 | Deployment runbook (release gates, rollback checkpoints, communications) | Jordan Smith | Week 5 midpoint | **Complete** – Gather rollout feedback. |
+| 5 | Terminology index (acronyms, services, tooling) | Morgan Alvarez | Week 5 midpoint | **Complete** – Monitor dependency references. |
+| 6 | Review-rubric and communication-brief templates | Priya Nair | Completed Week 4 | **Complete** – Evaluate for additional template needs. |
+| 7 | Housekeeping (SME roster, template inventory, checklist, roadmap/meta sync) | Repository Maintainers | Ongoing | **Complete** – Keep Phase 3 cross-links accurate. |
 
 ## Milestones
 1. **Week 4 – Baseline validation**: SME acknowledgement plus template circulation.
