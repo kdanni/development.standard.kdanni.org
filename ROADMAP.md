@@ -6,7 +6,7 @@ This document outlines the development phases for building the knowledge base. T
 
 This phase focuses on establishing the core principles and practices that form the bedrock of our development process.
 
-- **[ ] Coding Standards:** Language-specific guidelines for writing clean, consistent, and maintainable code.
+- **[/] Coding Standards:** Language-specific guidelines for writing clean, consistent, and maintainable code.
 - **[ ] Version Control:** Rules and best practices for using Git, including branching strategies and commit message standards.
 - **[ ] Code Review Policy:** Procedures and expectations for conducting and participating in code reviews to ensure quality and collaboration.
 
