@@ -15,6 +15,7 @@ This roadmap outlines the major initiatives required to transform this repositor
 - **Status**: All baseline documents, SME assignments, and reusable templates are published. Follow-up work for Phase 3 focuses on peer-reviewing the new guideline, standard, policy, process, and reference artifacts plus verifying cross-links documented in the [Phase 2 Release Notes](../meta/RELEASE_NOTES.md).
 
 ## Phase 3 – Review and Validation
+- **Now in progress: Developing coding standards for Python, JavaScript, TypeScript, and Go.**
 - Formalize review workflows, including peer review and governance checkpoints.
 - Link related documents across categories to remove duplication and ensure consistency.
 - Validate terminology, tooling references, and compliance dependencies.
