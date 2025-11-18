@@ -6,5 +6,6 @@ This document tracks the progress of the foundational guidelines phase of the ro
   - [x] Detailed roadmap created.
   - [x] Initial documents created.
   - [x] Python guidelines completed.
+  - [x] JavaScript guidelines completed.
 - **[ ] Version Control:** Not started.
 - **[ ] Code Review Policy:** Not started.
