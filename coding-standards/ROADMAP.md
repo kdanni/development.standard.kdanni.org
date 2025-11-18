@@ -4,7 +4,7 @@ This document outlines the plan for developing the coding standards section of t
 
 ## Phase 1: Language-Specific Guidelines
 
-- **[ ] Python:** Establish a style guide and best practices for Python development.
+- **[x] Python:** Establish a style guide and best practices for Python development.
 - **[ ] JavaScript:** Define standards for writing clean and maintainable JavaScript code.
 - **[ ] TypeScript:** Provide guidelines for using TypeScript effectively, including types and interfaces.
 - **[ ] Go:** Set standards for idiomatic Go code, including formatting and concurrency.
