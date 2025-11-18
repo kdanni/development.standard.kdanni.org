@@ -5,5 +5,6 @@ This document tracks the progress of the foundational guidelines phase of the ro
 - **[ ] Coding Standards:** In progress.
   - [x] Detailed roadmap created.
   - [x] Initial documents created.
+  - [x] Python guidelines completed.
 - **[ ] Version Control:** Not started.
 - **[ ] Code Review Policy:** Not started.
