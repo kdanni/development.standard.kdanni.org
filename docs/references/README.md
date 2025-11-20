@@ -17,3 +17,4 @@ They should stay evergreen and note the owner responsible for updates.
 
 ## Baseline Documents
 - [Engineering Glossary and Terminology Index](glossary.md) – Defines shared terminology, acronyms, service names, tooling identifiers, and ownership cadences.
+- [Design Pattern Catalog](design-pattern-catalog.md) – Summarizes architecture-level and component-level patterns with guidance on when to apply them.
