@@ -37,8 +37,8 @@ Documents are organized by topic in separate folders or files. Each document foc
 README.md
 LLM_HINTS.md
 LICENSE
+/meta
 /docs
-  /meta
   /roadmap
   /guidelines
   /standards
@@ -48,9 +48,9 @@ LICENSE
   /templates
 ```
 
-Refer to `docs/meta/README.md` for roadmap details, working directory descriptions, and contribution pointers.
-The `docs/meta/STRUCTURE.md` file captures the authoritative layout, and `docs/meta/CONTRIBUTING.md`
+Refer to `meta/README.md` for roadmap details, working directory descriptions, and contribution pointers.
+The `meta/STRUCTURE.md` file captures the authoritative layout, and `meta/CONTRIBUTING.md`
 outlines the workflow for proposing, reviewing, and merging changes.
 
 ## Current Roadmap Focus
-The repository completed **Phase 2 – Content Development** and is transitioning into **Phase 3 – Review and Validation**. Draft guidelines, standards, and supporting templates now exist across every directory, and the next checkpoint focuses on formal reviews plus cross-document validation. Track detailed status, follow-up actions, and release notes in [`docs/meta/README.md`](docs/meta/README.md) and [`docs/meta/RELEASE_NOTES.md`](docs/meta/RELEASE_NOTES.md).
+The repository completed **Phase 2 – Content Development** and is transitioning into **Phase 3 – Review and Validation**. Draft guidelines, standards, and supporting templates now exist across every directory, and the next checkpoint focuses on formal reviews plus cross-document validation. Track detailed status, follow-up actions, and release notes in [`meta/README.md`](meta/README.md) and [`meta/RELEASE_NOTES.md`](meta/RELEASE_NOTES.md).

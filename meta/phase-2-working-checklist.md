@@ -24,7 +24,7 @@ requirements, and in-scope deliverables. It reflects the authoritative roadmap a
 
 ## Phase 2 Scope Guidance
 - Phase 2 is **Complete**, with SME contributors handing drafts to the Phase 3 review board after the Baseline Document Audit wrapped at the end of Week 4.
-- Ongoing tracking and follow-up notes live in `docs/meta/README.md`, the Phase 2 plan (`docs/meta/phase-2-plan.md`), and the release notes (`docs/meta/RELEASE_NOTES.md`).
+- Ongoing tracking and follow-up notes live in `meta/README.md`, the Phase 2 plan (`meta/phase-2-plan.md`), and the release notes (`meta/RELEASE_NOTES.md`).
 - Requirements:
   - Baseline documents must exist in every directory, backed by SMEs and reusable templates.
   - Each directory needs a navigable README plus SME ownership assignments.
@@ -50,4 +50,4 @@ requirements, and in-scope deliverables. It reflects the authoritative roadmap a
 
 ## Status Tracking Notes
 - Keep roadmap (`docs/roadmap/ROADMAP.md`) and meta references synchronized when updating status tables.
-- Continue milestone tracking inside `docs/meta/README.md` and `docs/meta/phase-2-plan.md` for end-to-end visibility.
+- Continue milestone tracking inside `meta/README.md` and `meta/phase-2-plan.md` for end-to-end visibility.

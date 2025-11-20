@@ -26,7 +26,7 @@ _Status Legend: Not Started → Planned → In Progress → Complete._
 | Directory | Purpose |
 | --- | --- |
 | `docs/roadmap/` | Contains the authoritative repository roadmap and milestone definitions. |
-| `docs/meta/` | Hosts this meta documentation and any repository-level coordination notes. |
+| `meta/` | Hosts this meta documentation and any repository-level coordination notes. |
 | `docs/guidelines/` | Holds coding, documentation, and collaboration guidelines. |
 | `docs/standards/` | Tracks technical standards, conventions, and compliance requirements. |
 | `docs/policies/` | Contains policy statements such as security, release, and review policies. |
@@ -35,11 +35,11 @@ _Status Legend: Not Started → Planned → In Progress → Complete._
 | `docs/templates/` | Provides contribution templates, checklists, and forms that authors can reuse. |
 
 ## Contribution and Structure References
-- **Contribution workflow** – See [docs/meta/CONTRIBUTING.md](CONTRIBUTING.md) for branch naming, referencing rules, and
+- **Contribution workflow** – See [meta/CONTRIBUTING.md](CONTRIBUTING.md) for branch naming, referencing rules, and
   review expectations.
-- **Directory structure** – See [docs/meta/STRUCTURE.md](STRUCTURE.md) for the authoritative description of the repository
+- **Directory structure** – See [meta/STRUCTURE.md](STRUCTURE.md) for the authoritative description of the repository
   layout and ownership.
-- **Phase 2 working checklist** – Use [docs/meta/phase-2-working-checklist.md](phase-2-working-checklist.md) for a concise
+- **Phase 2 working checklist** – Use [meta/phase-2-working-checklist.md](phase-2-working-checklist.md) for a concise
   summary of coding conventions, testing requirements, and in-scope deliverables.
 
 ## Phase 2 Content Development Checklist
@@ -74,13 +74,13 @@ Use this checklist to track progress during Phase 2.
 ## Phase 1 Completion Checklist
 Use this checklist to confirm the repository was ready to shift to Phase 2.
 
-- [x] Root README links to `docs/meta/README.md` and describes the current roadmap focus.
-- [x] `docs/meta/STRUCTURE.md` captures the canonical directory layout and ownership.
-- [x] `docs/meta/CONTRIBUTING.md` documents workflow, naming, and referencing guidance.
+- [x] Root README links to `meta/README.md` and describes the current roadmap focus.
+- [x] `meta/STRUCTURE.md` captures the canonical directory layout and ownership.
+- [x] `meta/CONTRIBUTING.md` documents workflow, naming, and referencing guidance.
 - [x] Every working directory README contains a structured outline describing minimum content expectations.
 - [x] Roadmap status table lists Phase 1 as complete and identifies the next coordination checkpoint.
 
 ## Phase 1 Outcomes Summary
-- Established authoritative structure and contribution guidance within the `docs/meta` directory.
+- Established authoritative structure and contribution guidance within the `meta` directory.
 - Added outlines to each content category so Phase 2 authors can work in parallel with consistent expectations.
 - Updated status tracking to reflect Phase 1 completion and documented the checklist above for future audits.

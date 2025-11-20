@@ -16,7 +16,7 @@ changelogs, and inline comments.
 ## README Expectations
 | Section | Required Content | Notes |
 | --- | --- | --- |
-| Overview | Purpose, ownership, and consumers. | Keep it to two paragraphs and link to the owning team roster in `docs/meta/README.md`. |
+| Overview | Purpose, ownership, and consumers. | Keep it to two paragraphs and link to the owning team roster in `meta/README.md`. |
 | Getting Started | Setup prerequisites, commands, and environment variables. | Provide copy/paste commands and reference tooling from [Coding Conventions](coding-conventions.md). |
 | Operational Status | Deployment targets, monitoring entry points, and SLO statements. | Reference the [Performance and Scalability Standard](../standards/performance-and-scalability-standard.md) for metrics. |
 | Directory Map | Short description of each top-level folder in the repo. | Highlight templates or generated assets so reviewers know what not to edit manually. |
