@@ -11,7 +11,7 @@ This document outlines the plan to complete the Software Architecture Standards 
 ### Phase 1: Foundation & Governance
 - [x] **Define Architecture Decision Records (ADR) Process**
   - Establish templates and workflows for proposing and ratifying architectural decisions.
-- [ ] **Create Architecture Design Document Template**
+- [x] **Create Architecture Design Document Template**
   - Define the structure for design documents (Context, Options, Decision, Consequences).
 - [ ] **Establish Review Process**
   - Define the process for architectural reviews and sign-offs.
