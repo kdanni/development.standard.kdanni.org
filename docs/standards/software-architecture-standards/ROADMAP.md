@@ -17,7 +17,7 @@ This document outlines the plan to complete the Software Architecture Standards 
   - Define the process for architectural reviews and sign-offs.
 
 ### Phase 2: Modularity & Sustainability
-- [ ] **Document Modularity Standards**
+- [x] **Document Modularity Standards**
   - Guidelines for coupling, cohesion, and interface design.
   - Strategies for separating concerns (e.g., domain vs. infrastructure).
 - [ ] **Define Reference Models**
