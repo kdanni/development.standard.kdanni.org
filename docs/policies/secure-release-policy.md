@@ -11,7 +11,7 @@ All software releases must demonstrate compliance with security, quality, and ap
 ## Required Gates
 1. **Static and dependency scanning** – Run SAST and SBOM scans on every commit. Block merges with high or critical findings until remediation or approved exceptions.
 2. **Test verification** – Execute the [Testing Workflow](../processes/testing-workflow.md) suite (unit, integration, smoke). Document pass/fail results.
-3. **Change review** – Obtain at least two approvals: one domain reviewer and one maintainer listed in `docs/meta/STRUCTURE.md`.
+3. **Change review** – Obtain at least two approvals: one domain reviewer and one maintainer listed in `meta/STRUCTURE.md`.
 4. **Release checklist** – Complete the [documentation template](../templates/document-template.md) checklist section to confirm artifacts, owners, and communication.
 
 ## Exception Handling

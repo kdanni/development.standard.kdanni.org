@@ -9,7 +9,7 @@ configuration, data migrations, and documentation updates that influence complia
 - **Change Owner** – Prepares the change record, risk assessment, and rollback plan.
 - **Reviewer** – Validates test coverage, dependency impacts, and alignment with relevant standards.
 - **Change Advisory Board (CAB)** – Approves or rejects high-risk or freeze-window changes. Membership is listed
-  in `docs/meta/README.md`.
+  in `meta/README.md`.
 - **Release Manager** – Coordinates scheduling, communicates status, and ensures evidence is archived.
 
 ## Change Categories

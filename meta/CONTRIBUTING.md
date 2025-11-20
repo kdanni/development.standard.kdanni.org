@@ -5,7 +5,7 @@ referencing, naming, and review expectations. Follow these conventions alongside
 rules in `LLM_HINTS.md`.
 
 ## Workflow
-1. **Check the roadmap** – Confirm which phase is active using `docs/meta/README.md` and read the detailed
+1. **Check the roadmap** – Confirm which phase is active using `meta/README.md` and read the detailed
    milestones in `docs/roadmap/ROADMAP.md`.
 2. **Propose scope** – Open an issue or note describing the document you plan to create or update.
 3. **Create a branch** – Use descriptive branch names such as `feature/add-testing-process` or
@@ -14,7 +14,7 @@ rules in `LLM_HINTS.md`.
    - Include a clear title (`# Heading`), context paragraph, and structured sections.
    - Cite source material inline using repository-relative links or external references as needed.
    - Reference related documents with full paths (e.g., `docs/processes/testing.md`).
-   - Start from the [Document Template](../templates/document-template.md) to keep structure consistent.
+   - Start from the [Document Template](../docs/templates/document-template.md) to keep structure consistent.
 5. **Validate formatting** – Run Markdown linting (when available) and ensure headings follow a logical hierarchy.
 6. **Request review** – Tag the working group responsible for the directory (see `STRUCTURE.md`).
 7. **Merge and document** – After approval, update any affected index or README files and note the change in
