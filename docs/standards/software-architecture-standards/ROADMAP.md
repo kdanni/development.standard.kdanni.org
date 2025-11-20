@@ -13,7 +13,7 @@ This document outlines the plan to complete the Software Architecture Standards 
   - Establish templates and workflows for proposing and ratifying architectural decisions.
 - [x] **Create Architecture Design Document Template**
   - Define the structure for design documents (Context, Options, Decision, Consequences).
-- [ ] **Establish Review Process**
+- [x] **Establish Review Process**
   - Define the process for architectural reviews and sign-offs.
 
 ### Phase 2: Modularity & Sustainability

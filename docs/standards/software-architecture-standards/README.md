@@ -7,6 +7,9 @@ cross-cutting qualities such as reliability and security.
 ## Core Topics to Cover
 - **Decision governance** – Detail how ADRs are authored, reviewed, and ratified. Include the minimum
   context a design doc must provide before seeking approval.
+  - [Architecture Decision Record Process](./architecture-decision-record-process.md)
+  - [Architecture Design Document Template](./architecture-design-document-template.md)
+  - [Architectural Review Process](./architectural-review-process.md)
 - **Reference models** – Provide diagrams or C4 sketches for recurring patterns (e.g., event-driven microservices,
   data-analytics pipelines) plus rules on when teams may diverge from those models.
 - **Quality attribute scenarios** – Define measurable outcomes for latency, resilience, modifiability, and cost so
