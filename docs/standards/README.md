@@ -30,3 +30,4 @@ concise enough for reviewers to enforce during design reviews and release checkp
 - [Service Architecture Standard](service-architecture-standard.md) – Defines guardrails, quality gates, and enforcement for HTTP services.
 - [Performance and Scalability Standard](performance-and-scalability-standard.md) – Documents SLO expectations, instrumentation requirements, and escalation triggers.
 - [Enterprise Architecture Standards](enterprise-architecture-standars/README.md) – Captures mindset-setting recommendations and links to the enterprise architecture knowledge base for canonical requirements.
+- [Architecture Decision Record (ADR) Process Standard](software-architecture-standards/architecture-decision-record-process.md) – Describes the required lifecycle, approval, and evidence expectations for architectural decisions.
