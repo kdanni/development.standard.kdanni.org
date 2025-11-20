@@ -9,7 +9,7 @@ This document outlines the plan to complete the Software Architecture Standards 
 ## Roadmap Phases
 
 ### Phase 1: Foundation & Governance
-- [ ] **Define Architecture Decision Records (ADR) Process**
+- [x] **Define Architecture Decision Records (ADR) Process**
   - Establish templates and workflows for proposing and ratifying architectural decisions.
 - [ ] **Create Architecture Design Document Template**
   - Define the structure for design documents (Context, Options, Decision, Consequences).
