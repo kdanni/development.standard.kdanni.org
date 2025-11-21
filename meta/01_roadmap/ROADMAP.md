@@ -9,10 +9,9 @@ This roadmap outlines the major initiatives required to transform this repositor
 
 ## Phase 2 – Content Development *(Completed)*
 - Populate each category with baseline documents that reflect current organizational practices.
-- Identify subject-matter experts to author or validate detailed content.
 - Provide templates and checklists to streamline future contributions.
-- Track execution details in the [Phase 2 Completion Plan](../meta/phase-2-plan.md) so contributors understand owners, milestones, and status.
-- **Status**: All baseline documents, SME assignments, and reusable templates are published. Follow-up work for Phase 3 focuses on peer-reviewing the new guideline, standard, policy, process, and reference artifacts plus verifying cross-links documented in the [Phase 2 Release Notes](../meta/RELEASE_NOTES.md).
+- Track execution details in the [Phase 2 Completion Plan](../meta/phase-2-plan.md) so contributors understand milestones and status.
+- **Status**: All baseline documents and reusable templates are published. Follow-up work for Phase 3 focuses on peer-reviewing the new guideline, standard, policy, process, and reference artifacts plus verifying cross-links documented in the [Phase 2 Release Notes](../meta/RELEASE_NOTES.md).
 
 ## Phase 3 – Review and Validation
 - **Completed: Drafted coding standards for Python, JavaScript, TypeScript, and Go.**
@@ -26,12 +25,12 @@ This roadmap outlines the major initiatives required to transform this repositor
 - Track adoption metrics and prioritize continuous improvements based on feedback.
 
 ## Milestone Schedule
-| Phase | Timeframe | Primary Deliverables |
-| --- | --- | --- |
-| Phase 1 – Foundations | Weeks 1–2 | Directory structure, meta documentation, contribution guidelines |
-| Phase 2 – Content Development | Weeks 3–6 | Draft content for all categories, reusable templates |
-| Phase 3 – Review and Validation | Weeks 7–8 | Review workflows, cross-references, terminology validation |
-| Phase 4 – Enablement and Adoption | Weeks 9–10 | Onboarding guide, feedback loop, adoption metrics |
+| Phase | Primary Deliverables |
+| --- | --- |
+| Phase 1 – Foundations | Directory structure, meta documentation, contribution guidelines |
+| Phase 2 – Content Development | Draft content for all categories, reusable templates |
+| Phase 3 – Review and Validation | Review workflows, cross-references, terminology validation |
+| Phase 4 – Enablement and Adoption | Onboarding guide, feedback loop, adoption metrics |
 
 ## Success Metrics
 - 100% of planned directories contain at least an outline or template by the end of Phase 2.
