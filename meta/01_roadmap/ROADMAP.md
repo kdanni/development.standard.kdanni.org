@@ -45,11 +45,11 @@ Use [docs/TABLE_OF_CONTENTS.md](../../docs/TABLE_OF_CONTENTS.md) as the canonica
 | 01 – Introduction | Overview and non-goals published; aligns with ToC entries. | Validate links remain in sync as new onboarding content ships in Phase 4. |
 | 02 – Guidelines | Coding conventions and documentation hygiene drafted. | Peer-review for completeness during Phase 3 validation. |
 | 03 – Standards | Architecture, dependency, performance, and coding standards present, including roadmaps for coding and architecture subsets. | Complete reference models and sustainability guidance in `software-architecture-standards/ROADMAP.md` prior to final publication. |
-| 04 – Policies | Baseline policy shells exist for access, contracting, data/API governance, risk/compliance/privacy, business continuity, and third-party delivery. | Expand placeholder policies with scope, roles, evidence, and exception handling details (see list below). |
-| 05 – Processes | Core workflows (testing, deployment, development methodologies) drafted. Operational readiness and vendor onboarding/offboarding are placeholders. | Build full runbooks with triggers, RACI, tooling links, and exit criteria. |
+| 04 – Policies | Policies documented for access governance, contracting controls, data/API governance, risk/compliance/privacy, business continuity, and third-party delivery. | Validate policy alignment with evolving standards and audit findings during Phase 3 reviews. |
+| 05 – Processes | Core workflows (testing, deployment, development methodologies) drafted. Operational readiness and vendor onboarding/offboarding documented. | Pilot readiness and vendor processes with delivery teams; refine based on feedback and audit observations. |
 | 06 – References | Glossary and pattern catalog available. | Extend pattern catalog and glossary as terminology changes emerge from Phase 3 reviews. |
 | 07 – Templates | Document, communication brief, and review rubric templates available. | Add more role-specific templates as adoption feedback arrives in Phase 4. |
 
-### Placeholder Documents to Expand
-- Policies: `docs/04_policies/access-governance/README.md`, `docs/04_policies/contracting-controls/README.md`, `docs/04_policies/data-and-api-governance/README.md`, `docs/04_policies/risk-compliance-privacy/README.md`, `docs/04_policies/business-continuity-and-resilience/README.md`, `docs/04_policies/third-party-governance/README.md`.
-- Processes: `docs/05_processes/operational-readiness-handover/README.md`, `docs/05_processes/vendor-onboarding-and-offboarding/README.md`.
+### Policy and Process Sustainability Focus
+- Track audit outcomes and incident learnings to adjust policies as needed.
+- Exercise readiness and vendor processes in pilot projects; capture metrics and revise checklists based on operational feedback.
