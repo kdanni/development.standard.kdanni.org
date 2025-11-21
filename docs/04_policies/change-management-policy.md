@@ -21,7 +21,7 @@ configuration, data migrations, and documentation updates that influence complia
 
 ## Required Artifacts
 1. Change request ID with links to design docs, tickets, and pull requests.
-2. Test evidence aligned with the [Testing Workflow](../processes/testing-workflow.md), including regression and load tests when applicable.
+2. Test evidence aligned with the [Testing Workflow](../05_processes/testing-workflow.md), including regression and load tests when applicable.
 3. Deployment plan detailing sequencing, validation checkpoints, and automation scripts.
 4. Rollback strategy with time-to-restore estimates and owner assignments.
 5. Communication plan covering stakeholder notifications, status updates, and post-change summaries.
@@ -29,7 +29,7 @@ configuration, data migrations, and documentation updates that influence complia
 ## Exception Logging and Audit Traceability
 - Log all exceptions or expedited approvals in the change record with justification, compensating controls, and expiration dates.
 - Store approvals and exception logs in the central change-management tool for at least one year.
-- Update the [Documentation Hygiene Guideline](../guidelines/documentation-hygiene.md) sections when governance expectations change.
+- Update the [Documentation Hygiene Guideline](../02_guidelines/documentation-hygiene.md) sections when governance expectations change.
 - Tag releases that required exceptions so downstream consumers can trace risk.
 
 ## Compliance Checklist
@@ -37,9 +37,9 @@ configuration, data migrations, and documentation updates that influence complia
 2. Test and rollback evidence attached to the change record.
 3. Communication and status updates distributed via the agreed channels (chat, status page, or incident bridge).
 4. Exceptions logged with expiration dates and follow-up actions tracked.
-5. Post-change review completed within two business days, feeding insights into the [Deployment Runbook](../processes/deployment-runbook.md).
+5. Post-change review completed within two business days, feeding insights into the [Deployment Runbook](../05_processes/deployment-runbook.md).
 
 ## Related Documents
 - [Secure Release Policy](secure-release-policy.md)
-- [Performance and Scalability Standard](../standards/performance-and-scalability-standard.md)
-- [Deployment Runbook](../processes/deployment-runbook.md)
+- [Performance and Scalability Standard](../03_standards/performance-and-scalability-standard.md)
+- [Deployment Runbook](../05_processes/deployment-runbook.md)

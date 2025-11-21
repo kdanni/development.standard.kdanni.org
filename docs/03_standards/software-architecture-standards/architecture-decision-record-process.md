@@ -62,4 +62,4 @@ Every ADR must include at minimum:
 ## Related Guidance
 - [Software Architecture Standards](./README.md)
 - [Service Architecture Standard](../service-architecture-standard.md)
-- [Coding Conventions Guideline](../guidelines/coding-conventions.md)
+- [Coding Conventions Guideline](../02_guidelines/coding-conventions.md)

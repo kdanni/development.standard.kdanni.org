@@ -20,7 +20,7 @@ meta documentation synchronized.
 | Task | Description | Owner | Due | Status |
 | --- | --- | --- | --- | --- |
 | SME roster documentation | Publish the SME ownership table inside `meta/README.md` so contributors can route drafts to the right expert. | Repository Maintainers | Week 4 | Complete |
-| Template inventory update | Update `docs/templates/README.md` to reference the new review-rubric and communication-brief templates. | Priya Nair | Week 4 | Complete |
+| Template inventory update | Update `docs/07_templates/README.md` to reference the new review-rubric and communication-brief templates. | Priya Nair | Week 4 | Complete |
 | Phase 2 checklist refresh | Mark checklist items in `meta/README.md` as complete once SME owners and templates are published; note progress summary. | Repository Maintainers | Week 4 | Complete |
 | Plan visibility | Reference this plan from the meta README and roadmap directory to keep contributors aligned. | Repository Maintainers | Week 4 | Complete |
 | Milestone tracking | Add a short “Next Milestones” section (below) describing check-ins for the remaining workstreams. | Repository Maintainers | Week 4 | Complete |

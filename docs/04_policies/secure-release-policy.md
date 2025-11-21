@@ -10,7 +10,7 @@ All software releases must demonstrate compliance with security, quality, and ap
 
 ## Required Gates
 1. **Static and dependency scanning** – Run SAST and SBOM scans on every commit. Block merges with high or critical findings until remediation or approved exceptions.
-2. **Test verification** – Execute the [Testing Workflow](../processes/testing-workflow.md) suite (unit, integration, smoke). Document pass/fail results.
+2. **Test verification** – Execute the [Testing Workflow](../05_processes/testing-workflow.md) suite (unit, integration, smoke). Document pass/fail results.
 3. **Change review** – Obtain at least two approvals: one domain reviewer and one maintainer listed in `meta/STRUCTURE.md`.
 4. **Release checklist** – Complete the [documentation template](../templates/document-template.md) checklist section to confirm artifacts, owners, and communication.
 
@@ -20,8 +20,8 @@ All software releases must demonstrate compliance with security, quality, and ap
 
 ## Enforcement
 - Pipelines failing any gate automatically halt deployments.
-- Quarterly audits sample three releases per portfolio. Findings feed into the roadmap backlog and may trigger updates to the [Service Architecture Standard](../standards/service-architecture-standard.md).
+- Quarterly audits sample three releases per portfolio. Findings feed into the roadmap backlog and may trigger updates to the [Service Architecture Standard](../03_standards/service-architecture-standard.md).
 
 ## Related Documents
-- [Coding Conventions Guideline](../guidelines/coding-conventions.md)
-- [Testing Workflow](../processes/testing-workflow.md)
+- [Coding Conventions Guideline](../02_guidelines/coding-conventions.md)
+- [Testing Workflow](../05_processes/testing-workflow.md)

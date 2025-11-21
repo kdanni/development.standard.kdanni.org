@@ -43,6 +43,6 @@ This document outlines the plan to complete the Software Architecture Standards 
 
 ### Phase 5: Alignment & Finalization
 - [ ] **Alignment Review**
-  - Review standards against `docs/standards/coding-standards` and `docs/standards/enterprise-architecture-standars` to ensure consistency.
+  - Review standards against `docs/03_standards/coding-standards` and `docs/03_standards/enterprise-architecture-standars` to ensure consistency.
 - [ ] **Final Publication**
   - Finalize and publish the complete set of Software Architecture Standards.

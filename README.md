@@ -39,18 +39,19 @@ LLM_HINTS.md
 LICENSE
 /meta
 /docs
-  /roadmap
-  /guidelines
-  /standards
-  /policies
-  /processes
-  /references
-  /templates
+  /01_roadmap
+  /02_guidelines
+  /03_standards
+  /04_policies
+  /05_processes
+  /06_references
+  /07_templates
 ```
 
 Refer to `meta/README.md` for roadmap details, working directory descriptions, and contribution pointers.
 The `meta/STRUCTURE.md` file captures the authoritative layout, and `meta/CONTRIBUTING.md`
 outlines the workflow for proposing, reviewing, and merging changes.
+See `docs/TABLE_OF_CONTENTS.md` for the ordered publication sequence across directories.
 
 ## Current Roadmap Focus
 The repository completed **Phase 2 – Content Development** and is transitioning into **Phase 3 – Review and Validation**. Draft guidelines, standards, and supporting templates now exist across every directory, and the next checkpoint focuses on formal reviews plus cross-document validation. Track detailed status, follow-up actions, and release notes in [`meta/README.md`](meta/README.md) and [`meta/RELEASE_NOTES.md`](meta/RELEASE_NOTES.md).

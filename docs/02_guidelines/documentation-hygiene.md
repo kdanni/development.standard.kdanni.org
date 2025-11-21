@@ -18,7 +18,7 @@ changelogs, and inline comments.
 | --- | --- | --- |
 | Overview | Purpose, ownership, and consumers. | Keep it to two paragraphs and link to the owning team roster in `meta/README.md`. |
 | Getting Started | Setup prerequisites, commands, and environment variables. | Provide copy/paste commands and reference tooling from [Coding Conventions](coding-conventions.md). |
-| Operational Status | Deployment targets, monitoring entry points, and SLO statements. | Reference the [Performance and Scalability Standard](../standards/performance-and-scalability-standard.md) for metrics. |
+| Operational Status | Deployment targets, monitoring entry points, and SLO statements. | Reference the [Performance and Scalability Standard](../03_standards/performance-and-scalability-standard.md) for metrics. |
 | Directory Map | Short description of each top-level folder in the repo. | Highlight templates or generated assets so reviewers know what not to edit manually. |
 | Maintenance Log | Link to the changelog or release notes. | Include a date-stamped summary for material updates.
 
@@ -33,7 +33,7 @@ changelogs, and inline comments.
 ## Inline Documentation Expectations
 - Prefer docstrings or KDoc-style summaries for public APIs that explain side effects and error handling.
 - When commenting inline, describe *why* the code exists, not *what* it does; the code already shows the "what".
-- Link to design docs, ADRs, or policies for workflows with compliance requirements (e.g., [Change-Management Policy](../policies/change-management-policy.md)).
+- Link to design docs, ADRs, or policies for workflows with compliance requirements (e.g., [Change-Management Policy](../04_policies/change-management-policy.md)).
 - Use TODO comments sparingly and always include an owner or issue ID.
 
 ## Hygiene Checklist
@@ -45,6 +45,6 @@ changelogs, and inline comments.
 
 ## Related Documents
 - [Coding Conventions Guideline](coding-conventions.md)
-- [Change-Management Policy](../policies/change-management-policy.md)
-- [Deployment Runbook](../processes/deployment-runbook.md)
-- [Performance and Scalability Standard](../standards/performance-and-scalability-standard.md)
+- [Change-Management Policy](../04_policies/change-management-policy.md)
+- [Deployment Runbook](../05_processes/deployment-runbook.md)
+- [Performance and Scalability Standard](../03_standards/performance-and-scalability-standard.md)

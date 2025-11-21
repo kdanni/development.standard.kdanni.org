@@ -51,4 +51,4 @@ All software delivered by the organization must follow verifiable supply chain s
 ## Related Documents
 - [Secure Release Policy](secure-release-policy.md)
 - [Change Management Policy](change-management-policy.md)
-- [Performance and Scalability Standard](../standards/performance-and-scalability-standard.md)
+- [Performance and Scalability Standard](../03_standards/performance-and-scalability-standard.md)

@@ -18,4 +18,4 @@ automation that enforces the rules.
 ## How to Contribute
 - Start each new standard with an ADR referencing the motivating incidents or audit findings.
 - Provide ready-to-copy snippets (Makefile targets, GitHub Actions) that teams can drop into their repos.
-- Link back to relevant guidance in `docs/guidelines` so the standards remain lightweight yet actionable.
+- Link back to relevant guidance in `docs/02_guidelines` so the standards remain lightweight yet actionable.

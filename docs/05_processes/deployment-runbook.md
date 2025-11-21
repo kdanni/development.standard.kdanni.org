@@ -9,7 +9,7 @@ release topology but keep the intent of progressive validation, auditable eviden
 
 ## Preconditions
 - All code merged to the main branch with green build status.
-- Required approvals captured per the [Change-Management Policy](../policies/change-management-policy.md).
+- Required approvals captured per the [Change-Management Policy](../04_policies/change-management-policy.md).
 - Automated tests and static analysis executed per the [Testing Workflow](testing-workflow.md).
 - Deployment artifacts (containers, packages, manifests) stored in the approved registry and signed.
 - Incident on-call roster confirmed and support teams aware of the deployment window.
@@ -27,7 +27,7 @@ release topology but keep the intent of progressive validation, auditable eviden
 2. Execute infrastructure changes first (schemas, networking) followed by application rollouts.
 3. Use progressive rollout strategies (canary, blue/green) with automated health verification.
 4. Pause between stages to confirm telemetry remains within error budgets defined in the
-   [Performance and Scalability Standard](../standards/performance-and-scalability-standard.md).
+   [Performance and Scalability Standard](../03_standards/performance-and-scalability-standard.md).
 5. Record timestamps for each step in the deployment log to simplify audits and retrospectives.
 6. Capture screenshots or export dashboards showing successful validation in each environment.
 7. Update ticketing systems (e.g., Jira, ServiceNow) with the status of each milestone to keep downstream teams aligned.
@@ -57,7 +57,7 @@ release topology but keep the intent of progressive validation, auditable eviden
 ## Post-Deployment Tasks
 1. Close the change request with final status and attach validation evidence.
 2. Document lessons learned and action items in the deployment log.
-3. Update the [Documentation Hygiene Guideline](../guidelines/documentation-hygiene.md) if new sections or
+3. Update the [Documentation Hygiene Guideline](../02_guidelines/documentation-hygiene.md) if new sections or
    templates are required.
 4. Schedule follow-up load or chaos tests if the release introduced architectural changes.
 5. Review alert thresholds and capacity forecasts if traffic patterns shifted during the release.
@@ -75,5 +75,5 @@ Document any deviations from this matrix within the change ticket to keep accoun
 
 ## Related Documents
 - [Testing Workflow](testing-workflow.md)
-- [Change-Management Policy](../policies/change-management-policy.md)
-- [Performance and Scalability Standard](../standards/performance-and-scalability-standard.md)
+- [Change-Management Policy](../04_policies/change-management-policy.md)
+- [Performance and Scalability Standard](../03_standards/performance-and-scalability-standard.md)
