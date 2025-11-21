@@ -41,12 +41,12 @@ This table orders the documentation set for publication as a single, hierarchica
 - [Change-Management Policy](04_policies/change-management-policy.md)
 - [Secure Release Policy](04_policies/secure-release-policy.md)
 - [Supply Chain Security Policy](04_policies/supply-chain-security-policy.md)
-- [Third-Party Software Delivery Policy](04_policies/third-party-governance/README.md) *(Placeholder – needs expansion)*
-- [Contracting and Commercial Controls Policy](04_policies/contracting-controls/README.md) *(Placeholder – needs expansion)*
-- [Repository and Environment Access Governance Policy](04_policies/access-governance/README.md) *(Placeholder – needs expansion)*
-- [Risk, Compliance, and Privacy Policy](04_policies/risk-compliance-privacy/README.md) *(Placeholder – needs expansion)*
-- [Business Continuity and Resilience Policy](04_policies/business-continuity-and-resilience/README.md) *(Placeholder – needs expansion)*
-- [Data and API Governance Policy](04_policies/data-and-api-governance/README.md) *(Placeholder – needs expansion)*
+- [Third-Party Software Delivery Policy](04_policies/third-party-governance/README.md)
+- [Contracting and Commercial Controls Policy](04_policies/contracting-controls/README.md)
+- [Repository and Environment Access Governance Policy](04_policies/access-governance/README.md)
+- [Risk, Compliance, and Privacy Policy](04_policies/risk-compliance-privacy/README.md)
+- [Business Continuity and Resilience Policy](04_policies/business-continuity-and-resilience/README.md)
+- [Data and API Governance Policy](04_policies/data-and-api-governance/README.md)
 
 ## 05 – Processes
 - [Process Overview and Mapping](05_processes/process-overview-and-mapping.md)
@@ -55,8 +55,8 @@ This table orders the documentation set for publication as a single, hierarchica
 - [Agile Delivery Process](05_processes/agile/README.md)
 - [Hybrid Delivery Process](05_processes/hybrid/README.md)
 - [Waterfall Delivery Process](05_processes/waterfall/README.md)
-- [Vendor Onboarding and Offboarding Process](05_processes/vendor-onboarding-and-offboarding/README.md) *(Placeholder – needs expansion)*
-- [Operational Readiness and Handover Process](05_processes/operational-readiness-handover/README.md) *(Placeholder – needs expansion)*
+- [Vendor Onboarding and Offboarding Process](05_processes/vendor-onboarding-and-offboarding/README.md)
+- [Operational Readiness and Handover Process](05_processes/operational-readiness-handover/README.md)
 
 ## 06 – References
 - [References Overview](06_references/README.md)
