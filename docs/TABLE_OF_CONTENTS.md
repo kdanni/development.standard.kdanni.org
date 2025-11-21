@@ -2,8 +2,9 @@
 
 This table orders the documentation set for publication as a single, hierarchically structured document. Directory prefixes enforce lexical ordering that matches the intended reading sequence.
 
-## 01 – Roadmap
-- [Repository Roadmap](01_roadmap/ROADMAP.md)
+## 01 – Introduction
+- [Knowledge Base Introduction](01_introduction/README.md)
+- [Knowledge Base Non-Goals](01_introduction/non-goals.md)
 
 ## 02 – Guidelines
 - [Guidelines Overview](02_guidelines/README.md)
@@ -55,3 +56,6 @@ This table orders the documentation set for publication as a single, hierarchica
 - [Document Template](07_templates/document-template.md)
 - [Communication Brief Template](07_templates/communication-brief-template.md)
 - [Review Rubric Template](07_templates/review-rubric-template.md)
+
+## Meta – Roadmap
+- [Repository Roadmap](../meta/01_roadmap/ROADMAP.md)

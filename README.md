@@ -38,8 +38,9 @@ README.md
 LLM_HINTS.md
 LICENSE
 /meta
+/meta/01_roadmap
 /docs
-  /01_roadmap
+  /01_introduction
   /02_guidelines
   /03_standards
   /04_policies
