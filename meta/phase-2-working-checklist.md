@@ -49,5 +49,5 @@ requirements, and in-scope deliverables. It reflects the authoritative roadmap a
 3. **Week 6 – Pre-review audit**: Standards and policies ready for validation; references updated.
 
 ## Status Tracking Notes
-- Keep roadmap (`docs/01_roadmap/ROADMAP.md`) and meta references synchronized when updating status tables.
+- Keep roadmap (`meta/01_roadmap/ROADMAP.md`) and meta references synchronized when updating status tables.
 - Continue milestone tracking inside `meta/README.md` and `meta/phase-2-plan.md` for end-to-end visibility.

@@ -3,7 +3,7 @@
 This document describes how the knowledge base repository is organized, provides the roadmap used to plan work, tracks progress across the roadmap, and lists the working directories that make up the base structure.
 
 ## Roadmap Overview
-The knowledge base will be completed in four phases. Detailed descriptions live in [docs/01_roadmap/ROADMAP.md](../01_roadmap/ROADMAP.md), and the active execution plan for the current phase is tracked in the [Phase 2 Completion Plan](phase-2-plan.md).
+The knowledge base will be completed in four phases. Detailed descriptions live in [meta/01_roadmap/ROADMAP.md](01_roadmap/ROADMAP.md), and the active execution plan for the current phase is tracked in the [Phase 2 Completion Plan](phase-2-plan.md).
 
 | Phase | Objective | Key Deliverables |
 | --- | --- | --- |
@@ -25,8 +25,9 @@ _Status Legend: Not Started → Planned → In Progress → Complete._
 ## Working Directories
 | Directory | Purpose |
 | --- | --- |
-| `docs/01_roadmap/` | Contains the authoritative repository roadmap and milestone definitions. |
+| `meta/01_roadmap/` | Contains the authoritative repository roadmap and milestone definitions. |
 | `meta/` | Hosts this meta documentation and any repository-level coordination notes. |
+| `docs/01_introduction/` | Provides the knowledge base overview, audience, and non-goals. |
 | `docs/02_guidelines/` | Holds coding, documentation, and collaboration guidelines. |
 | `docs/03_standards/` | Tracks technical standards, conventions, and compliance requirements. |
 | `docs/04_policies/` | Contains policy statements such as security, release, and review policies. |

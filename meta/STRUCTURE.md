@@ -10,8 +10,9 @@ README.md
 LLM_HINTS.md
 LICENSE
 /meta
-/docs
   /01_roadmap
+/docs
+  /01_introduction
   /02_guidelines
   /03_standards
   /04_policies
@@ -26,7 +27,8 @@ LICENSE
 | `README.md` | Provides the top-level overview of the repository, audience, and navigation pointers. | Repository maintainers | Must link to `meta/README.md` and highlight any active roadmap phase. |
 | `LLM_HINTS.md` | Captures shared writing, tone, and formatting rules for both human and AI contributors. | Repository maintainers | Update when repository-wide style expectations change. |
 | `meta/` | Hosts meta documentation, roadmap status, governance, and contribution processes. | Repository maintainers | All structural or workflow changes are recorded here first. |
-| `docs/01_roadmap/` | Stores the long-form roadmap (`ROADMAP.md`) with phase definitions and milestones. | Repository maintainers | Reference this when updating the status table in `meta/README.md`. |
+| `meta/01_roadmap/` | Stores the long-form roadmap (`ROADMAP.md`) with phase definitions and milestones. | Repository maintainers | Reference this when updating the status table in `meta/README.md`. |
+| `docs/01_introduction/` | Captures the knowledge base purpose, audience, and non-goals. | Repository maintainers | Use this as the starting point for onboarding readers and contributors. |
 | `docs/02_guidelines/` | Contains documents that influence day-to-day development practices and etiquette. | Standards working group | Documents map to themes such as coding, documentation, tooling, and collaboration. |
 | `docs/03_standards/` | Defines normative technical standards and compliance obligations. | Standards working group | Each standard states scope, rationale, and enforcement. |
 | `docs/04_policies/` | Houses policy statements describing governance, security, release, and review rules. | Governance working group | Policies should include escalation and exception handling. |
