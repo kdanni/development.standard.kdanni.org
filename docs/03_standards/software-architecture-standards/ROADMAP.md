@@ -3,8 +3,8 @@
 This document outlines the plan to complete the Software Architecture Standards design documents. The goal is to establish best practices for software development with a focus on modularity, workflow handling, and codebase sustainability.
 
 ## Current Status
-- **Overall Progress:** Planning phase
-- **Next Milestone:** Draft foundational governance documents
+- **Overall Progress:** Governance templates, review process, and modularity standards drafted
+- **Next Milestone:** Add reference models plus sustainability guidance
 
 ## Roadmap Phases
 
@@ -43,6 +43,6 @@ This document outlines the plan to complete the Software Architecture Standards 
 
 ### Phase 5: Alignment & Finalization
 - [ ] **Alignment Review**
-  - Review standards against `docs/03_standards/coding-standards` and `docs/03_standards/enterprise-architecture-standars` to ensure consistency.
+  - Review standards against `docs/03_standards/coding-standards` to ensure consistency with language-specific expectations.
 - [ ] **Final Publication**
   - Finalize and publish the complete set of Software Architecture Standards.

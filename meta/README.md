@@ -13,12 +13,12 @@ The knowledge base will be completed in four phases. Detailed descriptions live 
 | Phase 4 – Enablement and Adoption | Drive usage and maintenance | Onboarding guide, feedback process, adoption metrics |
 
 ## Roadmap Status
-| Phase | Current Status | Owner / Role | Next Checkpoint |
-| --- | --- | --- | --- |
-| Phase 1 – Foundations | Complete | Repository maintainers | Transition ownership to Phase 2 planning session (Week 1, next quarter) |
-| Phase 2 – Content Development | Complete | Subject-matter experts | Handoff to Phase 3 review kickoff (Week 7) |
-| Phase 3 – Review and Validation | Planned | Review board | Define reviewers and validation tooling after drafts are ready |
-| Phase 4 – Enablement and Adoption | Planned | Product enablement | Prepare onboarding materials following validation phase |
+| Phase | Current Status | Next Checkpoint |
+| --- | --- | --- |
+| Phase 1 – Foundations | Complete | Transition ownership to Phase 2 planning session |
+| Phase 2 – Content Development | Complete | Handoff to Phase 3 review kickoff |
+| Phase 3 – Review and Validation | Planned | Define reviewers and validation tooling after drafts are ready |
+| Phase 4 – Enablement and Adoption | Planned | Prepare onboarding materials following validation phase |
 
 _Status Legend: Not Started → Planned → In Progress → Complete._
 
@@ -48,23 +48,13 @@ Use this checklist to track progress during Phase 2.
 
 - [x] Baseline documents exist for guidelines, standards, policies, processes, references, and templates.
 - [x] Category READMEs link to their baseline documents so authors can navigate quickly.
-- [x] SME owners identified for deep-dive expansions in each directory.
+- [x] Ownership expectations documented for deep-dive expansions in each directory.
 - [x] Templates extended to cover review rubrics and communication artifacts.
-
-### SME Owner Directory
-| Directory | SME Owner | Focus |
-| --- | --- | --- |
-| `docs/02_guidelines/` | Ava Patel (Development Standards) | Documentation hygiene guideline and alignment with coding conventions. |
-| `docs/03_standards/` | Marco Lee (Architecture Guild) | Performance and scalability standards plus dependency mapping. |
-| `docs/04_policies/` | Riley Chen (Governance Office) | Change-management policy and escalation paths. |
-| `docs/05_processes/` | Jordan Smith (Operations) | Deployment runbook and associated readiness checks. |
-| `docs/06_references/` | Morgan Alvarez (Knowledge Management) | Glossary expansion and terminology alignment. |
-| `docs/07_templates/` | Priya Nair (Knowledge Enablement) | Review rubric and communication brief templates plus template governance. |
 
 ## Phase 2 Progress Summary
 - Authored baseline documents for coding conventions, architecture standards, secure release policy, testing workflow, glossary, and reusable templates.
 - Updated category READMEs with curated links so contributors can discover starting points without scanning the directory tree.
-- Published SME ownership assignments and the Phase 2 Completion Plan so contributors know who is accountable for deep dives.
+- Published the Phase 2 Completion Plan so contributors understand the sequence of remaining deep dives.
 - Added review-rubric and communication-brief templates to unblock governance reviews and stakeholder messaging.
 
 ### Phase 2 Follow-up Actions
