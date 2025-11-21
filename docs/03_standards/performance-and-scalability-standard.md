@@ -17,7 +17,7 @@ Architecture Guild with input from operations and product owners.
 - Emit RED metrics (Rate, Errors, Duration) for each API or asynchronous worker.
 - Forward metrics and traces to the centralized observability platform with environment labels.
 - Configure alerts with thresholds aligned to SLO error budgets and route notifications to the
-  on-call rotation documented in the [Deployment Runbook](../processes/deployment-runbook.md).
+  on-call rotation documented in the [Deployment Runbook](../05_processes/deployment-runbook.md).
 - Capture profiling or capacity snapshots before each major release so regressions can be compared to a known baseline.
 - Persist raw metrics for at least 13 months to support seasonal trending analysis and architecture planning.
 - Annotate deployments in dashboards automatically so correlation between changes and regressions is trivial during incident reviews.
@@ -43,7 +43,7 @@ Architecture Guild with input from operations and product owners.
 - Declare a severity-one incident if an SLO is breached for longer than 30 minutes without mitigation. Escalate
   to the Architecture Guild and the Change Advisory Board (CAB).
 - Require CAB approval for performance-impacting configuration changes during freeze windows as defined in the
-  [Change-Management Policy](../policies/change-management-policy.md).
+  [Change-Management Policy](../04_policies/change-management-policy.md).
 - Store evidence of SLO reviews, test results, and incident reports for at least one year to support audits.
 - Share lessons learned from major incidents with the Architecture Guild and record architectural remediation actions
   in the backlog with explicit owners and due dates.
@@ -56,6 +56,6 @@ Architecture Guild with input from operations and product owners.
 5. Audit evidence retained for twelve months and referenced in changelog entries when standards change.
 
 ## Related Documents
-- [Documentation Hygiene Guideline](../guidelines/documentation-hygiene.md)
-- [Deployment Runbook](../processes/deployment-runbook.md)
-- [Change-Management Policy](../policies/change-management-policy.md)
+- [Documentation Hygiene Guideline](../02_guidelines/documentation-hygiene.md)
+- [Deployment Runbook](../05_processes/deployment-runbook.md)
+- [Change-Management Policy](../04_policies/change-management-policy.md)

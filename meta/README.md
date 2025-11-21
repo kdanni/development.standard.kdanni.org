@@ -3,7 +3,7 @@
 This document describes how the knowledge base repository is organized, provides the roadmap used to plan work, tracks progress across the roadmap, and lists the working directories that make up the base structure.
 
 ## Roadmap Overview
-The knowledge base will be completed in four phases. Detailed descriptions live in [docs/roadmap/ROADMAP.md](../roadmap/ROADMAP.md), and the active execution plan for the current phase is tracked in the [Phase 2 Completion Plan](phase-2-plan.md).
+The knowledge base will be completed in four phases. Detailed descriptions live in [docs/01_roadmap/ROADMAP.md](../01_roadmap/ROADMAP.md), and the active execution plan for the current phase is tracked in the [Phase 2 Completion Plan](phase-2-plan.md).
 
 | Phase | Objective | Key Deliverables |
 | --- | --- | --- |
@@ -25,14 +25,14 @@ _Status Legend: Not Started → Planned → In Progress → Complete._
 ## Working Directories
 | Directory | Purpose |
 | --- | --- |
-| `docs/roadmap/` | Contains the authoritative repository roadmap and milestone definitions. |
+| `docs/01_roadmap/` | Contains the authoritative repository roadmap and milestone definitions. |
 | `meta/` | Hosts this meta documentation and any repository-level coordination notes. |
-| `docs/guidelines/` | Holds coding, documentation, and collaboration guidelines. |
-| `docs/standards/` | Tracks technical standards, conventions, and compliance requirements. |
-| `docs/policies/` | Contains policy statements such as security, release, and review policies. |
-| `docs/processes/` | Documents workflows for testing, deployment, incident response, and maintenance. |
-| `docs/references/` | Stores glossaries, links, and reference material needed to understand the knowledge base. |
-| `docs/templates/` | Provides contribution templates, checklists, and forms that authors can reuse. |
+| `docs/02_guidelines/` | Holds coding, documentation, and collaboration guidelines. |
+| `docs/03_standards/` | Tracks technical standards, conventions, and compliance requirements. |
+| `docs/04_policies/` | Contains policy statements such as security, release, and review policies. |
+| `docs/05_processes/` | Documents workflows for testing, deployment, incident response, and maintenance. |
+| `docs/06_references/` | Stores glossaries, links, and reference material needed to understand the knowledge base. |
+| `docs/07_templates/` | Provides contribution templates, checklists, and forms that authors can reuse. |
 
 ## Contribution and Structure References
 - **Contribution workflow** – See [meta/CONTRIBUTING.md](CONTRIBUTING.md) for branch naming, referencing rules, and
@@ -53,12 +53,12 @@ Use this checklist to track progress during Phase 2.
 ### SME Owner Directory
 | Directory | SME Owner | Focus |
 | --- | --- | --- |
-| `docs/guidelines/` | Ava Patel (Development Standards) | Documentation hygiene guideline and alignment with coding conventions. |
-| `docs/standards/` | Marco Lee (Architecture Guild) | Performance and scalability standards plus dependency mapping. |
-| `docs/policies/` | Riley Chen (Governance Office) | Change-management policy and escalation paths. |
-| `docs/processes/` | Jordan Smith (Operations) | Deployment runbook and associated readiness checks. |
-| `docs/references/` | Morgan Alvarez (Knowledge Management) | Glossary expansion and terminology alignment. |
-| `docs/templates/` | Priya Nair (Knowledge Enablement) | Review rubric and communication brief templates plus template governance. |
+| `docs/02_guidelines/` | Ava Patel (Development Standards) | Documentation hygiene guideline and alignment with coding conventions. |
+| `docs/03_standards/` | Marco Lee (Architecture Guild) | Performance and scalability standards plus dependency mapping. |
+| `docs/04_policies/` | Riley Chen (Governance Office) | Change-management policy and escalation paths. |
+| `docs/05_processes/` | Jordan Smith (Operations) | Deployment runbook and associated readiness checks. |
+| `docs/06_references/` | Morgan Alvarez (Knowledge Management) | Glossary expansion and terminology alignment. |
+| `docs/07_templates/` | Priya Nair (Knowledge Enablement) | Review rubric and communication brief templates plus template governance. |
 
 ## Phase 2 Progress Summary
 - Authored baseline documents for coding conventions, architecture standards, secure release policy, testing workflow, glossary, and reusable templates.

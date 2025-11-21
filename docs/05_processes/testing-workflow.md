@@ -1,7 +1,7 @@
 # Testing Workflow
 
 ## Overview
-This process describes the testing lifecycle from commit to release. It ensures every change runs automated and manual tests aligned with the [Secure Release Policy](../policies/secure-release-policy.md).
+This process describes the testing lifecycle from commit to release. It ensures every change runs automated and manual tests aligned with the [Secure Release Policy](../04_policies/secure-release-policy.md).
 
 - **Trigger** – Code merged to the main branch or release candidate tags.
 - **Exit Criteria** – All required test stages pass and evidence is attached to the release record.
@@ -13,7 +13,7 @@ This process describes the testing lifecycle from commit to release. It ensures 
 1. **Unit Tests**
    - Scope: modules, functions, and isolated services.
    - Steps: run `make test-unit` or language-specific equivalent; capture coverage artifacts; publish flaky test suppressions for review.
-   - Success: ≥90% pass rate on flaky test tracker; coverage meets thresholds in the [Service Architecture Standard](../standards/service-architecture-standard.md).
+   - Success: ≥90% pass rate on flaky test tracker; coverage meets thresholds in the [Service Architecture Standard](../03_standards/service-architecture-standard.md).
 2. **Integration Tests**
    - Scope: service interactions, database migrations, message brokers.
    - Steps: provision ephemeral environment, seed reference data, run `make test-integration`, and archive data snapshots for diffing.
@@ -41,5 +41,5 @@ This process describes the testing lifecycle from commit to release. It ensures 
 - When a severity-1 bug escapes to production, run a blameless review and update this workflow with the prevention action.
 
 ## Related Documents
-- [Coding Conventions Guideline](../guidelines/coding-conventions.md)
-- [Secure Release Policy](../policies/secure-release-policy.md)
+- [Coding Conventions Guideline](../02_guidelines/coding-conventions.md)
+- [Secure Release Policy](../04_policies/secure-release-policy.md)

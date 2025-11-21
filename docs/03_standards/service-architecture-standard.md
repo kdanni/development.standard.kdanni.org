@@ -36,12 +36,12 @@ This standard defines the architectural guardrails for HTTP services deployed by
 
 ## Enforcement and Validation
 - Architecture reviews confirm alignment before provisioning infrastructure.
-- CI pipelines run coverage, load smoke tests, and security scans. Failing any gate blocks the release per the [Secure Release Policy](../policies/secure-release-policy.md).
-- Observability dashboards are reviewed monthly; deviations trigger corrective action plans managed under the [Testing Workflow](../processes/testing-workflow.md).
+- CI pipelines run coverage, load smoke tests, and security scans. Failing any gate blocks the release per the [Secure Release Policy](../04_policies/secure-release-policy.md).
+- Observability dashboards are reviewed monthly; deviations trigger corrective action plans managed under the [Testing Workflow](../05_processes/testing-workflow.md).
 - Platform engineering captures evidence of compliance in the service catalog, including links to latest test reports and
   incident retrospectives. Missing evidence is treated as a Sev-2 operational risk until remediation is complete.
 
 ## Related Guidance
-- [Coding Conventions Guideline](../guidelines/coding-conventions.md)
-- [Glossary](../references/glossary.md)
-- [Resiliency Playbook](../guidelines/resiliency-playbook.md)
+- [Coding Conventions Guideline](../02_guidelines/coding-conventions.md)
+- [Glossary](../06_references/glossary.md)
+- [Resiliency Playbook](../02_guidelines/resiliency-playbook.md)

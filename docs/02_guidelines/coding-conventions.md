@@ -28,6 +28,6 @@ This guideline aligns contributors on baseline coding conventions across reposit
 - Capture reviewer decisions in the pull request template and link to related guidelines or standards.
 
 ## Related Documents
-- [Secure Release Policy](../policies/secure-release-policy.md)
-- [Service Architecture Standard](../standards/service-architecture-standard.md)
-- [Testing Workflow](../processes/testing-workflow.md)
+- [Secure Release Policy](../04_policies/secure-release-policy.md)
+- [Service Architecture Standard](../03_standards/service-architecture-standard.md)
+- [Testing Workflow](../05_processes/testing-workflow.md)
