@@ -13,6 +13,16 @@ changelogs, and inline comments.
 3. **Small, frequent updates** – Update documentation as part of the same change that modifies behavior to
    avoid drift between code and supporting references.
 
+## Documentation Inputs and Outputs
+- **Input – Business requirements and documentation**
+  - Capture the source of truth for requirements (product brief, contract, discovery notes) and link to owners.
+  - Clarify priority, acceptance criteria, and constraints so downstream documents reflect the latest intent.
+  - Version requirements documents when scope or stakeholder approvals change, and record deltas in the changelog.
+- **Output – Technical design documentation and fine specifications**
+  - Describe architecture, interfaces, and data contracts in enough detail for reviewers and implementers to act.
+  - Document non-functional expectations (performance, security, operability) and how they will be validated.
+  - Keep specifications synchronized with backlog items and ADRs; flag deviations and rationale in revision history.
+
 ## README Expectations
 | Section | Required Content | Notes |
 | --- | --- | --- |
